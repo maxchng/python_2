@@ -22,5 +22,5 @@ def projection_life(path_1, path_2):
 
 
 if __name__ == "__main__":
-    projection_life("income_perperson_gdppercapita_ppp_inflation_adjusted.csv",
+    projection_life("income_per_person_gdppercapita_ppp_inflation_adjusted.csv",
                     "life_expectancy_years.csv")
